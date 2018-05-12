@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1144
     wikipedia: http://en.wikipedia.org/wiki/Owen_Morgan_Edwards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19976#The-Mabinogion-Vol.-3
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2006-11-30'
 gutenberg_type: Text
